@@ -47,16 +47,16 @@ class LanguageEn extends Languages {
   String get searchSomething => "Search Something...";
 
   @override
-  String get home => "Home";
+  String get home => "Services";
 
   @override
-  String get domain => "Domain";
+  String get domain => "About Us";
 
   @override
-  String get email => "Email";
+  String get email => "Case Studies";
 
   @override
-  String get pricing => "Pricing";
+  String get pricing => "Industry";
 
   @override
   String get login => "Login";
